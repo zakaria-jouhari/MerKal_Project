@@ -116,7 +116,10 @@ A hoverboard BLDC drivetrain, an STM32 safety and motor-control core, and a Rasp
   <img src="docs/images/chassis_assembled.jpg" width="560" alt="Assembled chassis">
 </p>
 <p align="center">
-  <img src="docs/images/image1jpg" width="560" alt="Assembled chassis">
+  <img src="docs/images/image1.jpg" width="560" alt="Assembled chassis">
+</p>
+<p align="center">
+  <img src="docs/images/image2.jpg" width="560" alt="Assembled chassis">
 </p>
 ### Roadmap
 
