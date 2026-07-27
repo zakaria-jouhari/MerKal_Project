@@ -112,9 +112,7 @@ A hoverboard BLDC drivetrain, an STM32 safety and motor-control core, and a Rasp
 
 **Firmware status**: iBUS RC reception verified at approximately 135 frames per second with 0 errors. Motor control verified for full-vehicle teleoperation. Arm button implemented, testing pending.
 
-<p align="center">
-  <img src="docs/images/chassis_assembled.jpg" width="560" alt="Assembled chassis">
-</p>
+
 <p align="center">
   <img src="docs/images/image1.jpg" width="560" alt="Assembled chassis">
 </p>
