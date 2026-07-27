@@ -123,7 +123,7 @@ A hoverboard BLDC drivetrain, an STM32 safety and motor-control core, and a Rasp
 
 - [x] **V1, RC teleoperation**: full-vehicle drive demonstrated
 - [x] **V2, autonomy handoff**: Pi `cmd_vel` over serial, in progress next
-- [ ] **V3, state estimation on hardware**: odometry and EKF
+- [x] **V3, state estimation on hardware**: odometry and EKF
 - [ ] **V4, vision-guided navigation**: closed-loop crop-row following
 
 **Next milestone**: a lawnmower-pattern field demo across two rows, at a farm already visited.
