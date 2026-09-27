@@ -132,7 +132,7 @@ A hoverboard BLDC drivetrain, an STM32 safety and motor-control core, and a Rasp
 1. **Field research**, complete: two real farm visits, need and price confirmed
 2. **Simulation validated**, complete: full navigation stack tested under controlled GPS degradation
 3. **Physical prototype**, in progress: chassis assembled, hardware integrated, bench testing underway
-4. **Field demo**, next step
+4. **Field demo**, done ,but we need to make some adjustement to the rear caster wheels actually ,so we can duplicate our robot in simulation ,in terms of turning and moving from one row to the next one .
 
 ### Team
 
