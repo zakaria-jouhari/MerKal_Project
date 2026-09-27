@@ -134,12 +134,7 @@ A hoverboard BLDC drivetrain, an STM32 safety and motor-control core, and a Rasp
 3. **Physical prototype**, in progress: chassis assembled, hardware integrated, bench testing underway
 4. **Field demo**, done ,but we need to make some adjustement to the rear caster wheels actually ,so we can duplicate our robot in simulation ,in terms of turning and moving from one row to the next one .
 
-### Team
 
-**Zakaria Jouhari**, founder. Software (navigation, sensor fusion, vision) and hardware integration.
-Electrical Engineering, Embedded Systems, ENSA Kenitra. Research Engineer Intern, UM6P College of Computing. Part of the UM6P / OCP / OCP NutriCrops ecosystem.
-
-Solo-founded at this stage, and building out the team across technical, business, and agronomy expertise is a current priority.
 
 ### Repository structure
 
