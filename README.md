@@ -15,6 +15,9 @@
 
 
 ---
+<p align="center">
+  <img src="docs/images/01_Overview.png" width="560" alt="Assembled chassis">
+</p> 
 
 ### The problem
 
